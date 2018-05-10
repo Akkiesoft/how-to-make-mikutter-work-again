@@ -1,4 +1,4 @@
-# How to work mikutter again
+# How to make mikutter work again
 
 IT IS "NOT" OFFICIAL DOCUMENT OF MIKUTTER PROJECT OR TWITTER. DO NOT CONTACT TO @TOSHI_A AND TWITTER INC.
 
