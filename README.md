@@ -46,7 +46,7 @@ IT IS "NOT" OFFICIAL DOCUMENT OF MIKUTTER PROJECT OR TWITTER. DO NOT CONTACT TO 
 5. Click "Create your Twitter application"
 6. Open "Permissions" tab on the moved application settings page.
 7. Change "Access" to "Read, Write and Access direct messages".
-8. Click "Update Settins"
+8. Click "Update Settings"
 
 ![Permission page](img/06.jpg)
 
